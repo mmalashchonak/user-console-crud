@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user id="1">
+        <firstName>Nik</firstName>
+        <lastName>Ivanov</lastName>
+        <email>email1@gmail.com</email>
+        <roles>
+            <role>SUPER_ADMIN</role>
+        </roles>
+        <phones>
+            <phone>375001234567</phone>
+            <phone>375111234567</phone>
+        </phones>
+    </user>
+    <user id="2">
+        <firstName>Alex</firstName>
+        <lastName>Petrov</lastName>
+        <email>email2@gmail.com</email>
+        <roles>
+            <role>ADMIN</role>
+            <role>PROVIDER</role>
+        </roles>
+        <phones>
+            <phone>375001684567</phone>
+            <phone>375188234567</phone>
+        </phones>
+    </user>
+    <user id="3">
+        <firstName>Denis</firstName>
+        <lastName>Kotov</lastName>
+        <email>eyhrh@gmail.com</email>
+        <roles>
+            <role>USER</role>
+        </roles>
+        <phones>
+            <phone>375231234567</phone>
+            <phone>375141234567</phone>
+        </phones>
+    </user>
+    <user id="4">
+        <firstName>Mike</firstName>
+        <lastName>Ivanov</lastName>
+        <email>emailhr6@gmail.com</email>
+        <roles>
+            <role>ADMIN</role>
+        </roles>
+        <phones>
+            <phone>375023234567</phone>
+            <phone>375118734567</phone>
+        </phones>
+    </user>
+    <user id="5">
+        <firstName>Karl</firstName>
+        <lastName>Libich</lastName>
+        <email>karr-lor@zen.kt</email>
+        <roles>
+            <role>USER</role>
+            <role>ADMIN</role>
+        </roles>
+        <phones>
+            <phone>375678908989</phone>
+        </phones>
+    </user>
+    <user id="6">
+        <firstName>Kristian</firstName>
+        <lastName>Motor</lastName>
+        <email>gore@gro.tr</email>
+        <roles>
+            <role>PROVIDER</role>
+        </roles>
+        <phones>
+            <phone>375643223456</phone>
+        </phones>
+    </user>
+</users>
