@@ -8,5 +8,5 @@ Console application with xml database to save, get, update and delete Users.
 - put database folder in root with jar;
 - cmd command: java -jar app.jar
 
-Test video:  https://youtu.be/GzO13STfU7E
+Test video:  https://www.youtube.com/watch?v=haWLpEfLTCc
 
